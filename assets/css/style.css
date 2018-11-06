@@ -75,9 +75,11 @@ body {
     text-align: center;
     text-decoration: none;
     background: #4aaaa5;
+    margin-left: 220px;
+    margin-top:50px;
   }
   
-  nav {
+  /* nav {
     float: right;
     margin-top: 25px;
   }
@@ -94,7 +96,7 @@ body {
   
   nav a:first-child {
     border-left: 0 none;
-  }
+  } */
   
   /* footer */
   
